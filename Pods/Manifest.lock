@@ -1,5 +1,5 @@
 PODS:
-  - SBLoan (1.0.1)
+  - SBLoan (1.1.0)
 
 DEPENDENCIES:
   - SBLoan
@@ -9,7 +9,7 @@ SPEC REPOS:
     - SBLoan
 
 SPEC CHECKSUMS:
-  SBLoan: 7e0db210bd845422df070dd615a7570672950eff
+  SBLoan: d3e903e2cc814f2195f6b6ecb5dbffb85036581e
 
 PODFILE CHECKSUM: bbfbd26dfc46a1f47a7ee3f7919a64b1a329815d
 

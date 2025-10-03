@@ -1,3 +1,5 @@
+source 'https://github.com/mariaclarad25/SBLoan.git'
+
 # Uncomment the next line to define a global platform for your project
 # platform :ios, '9.0'
 
@@ -7,4 +9,6 @@ target 'SwiftBank' do
 
   # Pods for SwiftBank
 
+  pod 'SBLoan'
+  
 end
